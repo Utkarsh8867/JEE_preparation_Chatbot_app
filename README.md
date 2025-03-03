@@ -1,16 +1,22 @@
-# chatbot_app
+# Chatbot App
 
-A new Flutter project.
+Welcome to the **Chatbot App** project! This project is a starting point for your Flutter application.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This application serves as a chatbot interface where users can interact with the bot, ask questions, and receive answers in real-time. It's a great project to understand state management, API integration, and working with the Flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Real-time Chat**: Communicate with the chatbot using text inputs.
+- **Voice Assistant**: Engage with the bot using voice commands.
+- **History**: View past conversations stored locally.
+- **Premium Plans**: Unlock premium features for enhanced interactions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+
+To get started with this Flutter project, follow the steps below:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/chatbot_app.git
