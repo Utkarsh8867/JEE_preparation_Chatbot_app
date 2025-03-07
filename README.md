@@ -19,14 +19,6 @@ This application serves as a chatbot interface where users can interact with the
 
 ## Setup Instructions
 
-To get started with this Flutter project, follow the steps below:
-
-
-
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/chatbot_app.git
 
 
    
