@@ -16,9 +16,3 @@ This application serves as a chatbot interface where users can interact with the
 - **Voice Assistant**: Engage with the bot using voice commands.
 - **History**: View past conversations stored locally.
 - **Premium Plans**: Unlock premium features for enhanced interactions.
-
-## Setup Instructions
-
-
-
-   
